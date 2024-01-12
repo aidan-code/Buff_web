@@ -23,7 +23,6 @@ function App() {
 
   const handleMic = (e) =>{
     e.preventDefault()
-      console.log('testing 123')
       setDispMic(true)
   }
 
